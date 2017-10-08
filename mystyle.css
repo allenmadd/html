@@ -12,8 +12,12 @@ p {font-size:1.5em; text-align:center-right;}
     padding:5px;
 }
 #nav {
-    float:bottom;
-    text-align:right; 
+line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
 #footer {
     color:black;
